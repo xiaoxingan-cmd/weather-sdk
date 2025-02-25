@@ -3,12 +3,12 @@
 > WeatherDataSDK is a lightweight and easy-to-use SDK designed to seamlessly integrate weather data collection into your applications. The SDK returns JSON weather data for any specified city. With WeatherDataSDK, developers can also use polling methods to automatically retrieve weather information at regular intervals, making it an ideal solution for applications that require up-to-date weather conditions. Whether you're building a weather app, a travel planner, or any application that relies on weather data, WeatherDataSDK will handle it!
 
 ## Contents
-> * [Introduction](https://github.com/xiaoxingan-cmd/weather-sdk/new/master?filename=README.md#introduction)
-> * [Prerequisites](https://github.com/xiaoxingan-cmd/weather-sdk/new/master?filename=README.md#prerequisite)
-> * [Installation](https://github.com/xiaoxingan-cmd/weather-sdk/new/master?filename=README.md#installation)
-> * [Example of Usage](https://github.com/xiaoxingan-cmd/weather-sdk/new/master?filename=README.md#example-of-usage)
-> * [Expected Result](https://github.com/xiaoxingan-cmd/weather-sdk/new/master?filename=README.md#expected-result)
-> * [Other](https://github.com/xiaoxingan-cmd/weather-sdk/new/master?filename=README.md#other)
+> * [Introduction](https://github.com/xiaoxingan-cmd/weather-sdk#introduction)
+> * [Prerequisites](https://github.com/xiaoxingan-cmd/weather-sdk#prerequisites)
+> * [Installation](https://github.com/xiaoxingan-cmd/weather-sdk#installation)
+> * [Example of Usage](https://github.com/xiaoxingan-cmd/weather-sdk#example-of-usage)
+> * [Expected Result](https://github.com/xiaoxingan-cmd/weather-sdk#expected-result)
+> * [Other](https://github.com/xiaoxingan-cmd/weather-sdk#other)
 
 ## Prerequisites
 You need to get your own API key to work with this SDK. This one works with [OpenWeather](https://openweathermap.org/api) API.
