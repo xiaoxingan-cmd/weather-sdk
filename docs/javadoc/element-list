@@ -1,0 +1,9 @@
+com.weatherSDK
+com.weatherSDK.api
+com.weatherSDK.api.utils
+com.weatherSDK.behaviour
+com.weatherSDK.cache
+com.weatherSDK.exceptions.api
+com.weatherSDK.exceptions.api.utils
+com.weatherSDK.exceptions.weatherClient
+com.weatherSDK.models
