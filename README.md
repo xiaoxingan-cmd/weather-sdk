@@ -41,8 +41,11 @@ public class Main {
     }
 }
 ```
+> [!TIP]
+> If you don't fully understand what an instance means, think of it as something that allows you to work with multiple API keys at the same time.
+
 ## Expected Result
->[!TIP]
+>[!NOTE]
 > The SDK returns JSON as a string in a pretty-printed format. </br>
 > To parse it, you can use libraries like Jackson.
 ```
